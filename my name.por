@@ -4,6 +4,6 @@ programa {
 
     escreva ("digite seu nome:")
     leia (nome)
-    escreva ("seu nome é ", nome)
+    escreva ("seu nome Ã© ", nome)
   }
 }
