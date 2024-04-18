@@ -11,6 +11,6 @@ programa {
 
     soma = n1+n2 
 
-    escreva ("A soma de ", n1, "+", n2, " é igual: ", soma)
+    escreva ("A soma de ", n1, "+", n2, " Ã© igual: ", soma)
   }
 }
